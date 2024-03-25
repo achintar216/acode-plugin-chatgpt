@@ -2,7 +2,7 @@ Chat GPT
 =========
 
 > Note: This update is only supported on Acode version - 1.8.4(281) and above.
-
+s
 > **⚠️ Important note**
 If you face any issue or error or you want to report bugs, Please report these things in github repo of this plugin with a detailed description. Hope you understand ❤️❤️
 
